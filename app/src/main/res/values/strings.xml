@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Formulas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fun with Formulas</string>
+    <string name="nav_header_subtitle">Because Math  Science Rock!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_pythagorean_theorem">Pythagorean Theorem</string>
+    <string name="edittext_leg_b">Leg B</string>
+    <string name="edittext_leg_a">Leg A</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="textview_hypotenuse">Hypotenuse:</string>
+    <string name="circle_area">circle_area</string>
+    <string name="area">Area</string>
+</resources>

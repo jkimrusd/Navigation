@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!-- This is a commend.  DO not put in tag
+          CTRL-ALT-L is code cleanup -->
+    <!-- Items need 3 things
+         1. ID
+         2. Title
+         3. Icon (nice to have)  -->
+
+    <!-- what-where-desc -->
+    <!-- To add icon from built in icon pack
+       1. right click on res/drawable and chose vector assets
+       2. Click on clip art icon to get icons viewer
+       3. Select icon you want
+       4. Profit!
+    -->
+    <item android:id="@+id/menu_main_pythag"
+        android:title="@string/menu_pythagorean_theorem"
+        android:icon="@drawable/ic_triangle"
+        />
+    <item android:id="@+id/menu_main_circle"
+        android:title="@string/circle_area"
+        android:icon="@drawable/ic_circle"
+        />
+
+</menu>
